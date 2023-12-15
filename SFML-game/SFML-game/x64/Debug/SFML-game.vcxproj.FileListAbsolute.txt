@@ -1,0 +1,2 @@
+D:\HowToSFML\SFML-game\SFML-game\x64\Debug\SFML-game.exe
+D:\HowToSFML\test\SFML-game\SFML-game\x64\Debug\SFML-game.exe

@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\HowToSFML\test\SFML-game\SFML-game\main.cpp(7,16): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  SFML-game.vcxproj -> D:\HowToSFML\test\SFML-game\SFML-game\x64\Debug\SFML-game.exe
